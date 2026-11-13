@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="k0w4lzk1" width="840">
+  <img src="banner.svg" alt="k0w4lzk1" width="840">
 </p>
 
 I do web security and play CTFs with [bi0s](https://bi0s.in), mostly client-side: XSS and XS-Leaks. I also build things now and then.
