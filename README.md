@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="k0w4lzk1: a bug crawls through a maze collecting flags while a WAF chases it" width="840">
+  <img src="banner.svg" alt="k0w4lzk1: a bug crawls through a maze collecting flags while a WAF chases it" width="840">
 </p>
 
 ```
